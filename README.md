@@ -31,6 +31,27 @@ https://amstrad.es/doku.php?id=companias:ingelek
 La colección Multiaventura era una colección de librojuegos del género "elige tu propia aventura" (Choose Your Own Adventure, CYOA), usualmente bastante estandar y simplista, aunque algunos tenian mecánicas de juego mas complejas, como recursos u objetos llave, haciendoles ideales para ser portados a cualquier tipo de ficción interactiva digital.  
 Los libros eran una mezcla de historias originales, la mayoria inconexas, aunque algunas tenían protagonistas recurrentes que las dotaban de una cierta continuidad, con otras historias basadas en clásicos de la literatura y del cine de aventuras, terror y/o ciencia-ficción.  
 
+### Créditos y licencias
+Los créditos generales de cada volumen de la colección aparecen en la segunda página de cada tomo:
+
+> Director de la colección: *Antonio M. Ferrer Abelló*
+> Director de producción: *Vicente Robles*
+> Textos: *Autor(es) de los textos correspondientes a dicho tomo*
+> Ilustraciones: *Autor(es) de las ilustraciones correspondientes a dicho tomo*
+> Diseño: *Bravo/Lofish*
+> Maquetación: *Carlos González Amezúa*
+> &copy; Antonio M. Ferrer Abelló
+> &copy; Ediciones Ingelek S. A. 
+>
+>	Todos los derechos reservados. Este libro no puede ser, en parte o totalmente, reproducido, memorizado en sistemas de archivo, o transmitido en cualquier forma o medio, electrónico, mecánico, fotocopia o cualquier otro sin la previa autorización del editor.
+>
+>	ISBN del tomo: 84-85831-XX-X
+>	ISBN de la obra: 84-85831-70-5
+>	Fotocomposición: Vierna, S. A.
+>	Fotomecánica: Ochoa
+>	lmprime: Gráficas Reunidas, S. A.
+>	Depósito Legal: M. 16.XXX-1986
+	
 ### Autores
 | Nº | Título                                          | Textos                                                       | Ilustraciones                                            |
 | -- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
@@ -54,24 +75,6 @@ Los libros eran una mezcla de historias originales, la mayoria inconexas, aunque
 | 18 | **En busca de la ciudad de oro.**               | [Miguel Gonzales Casquell](biografias/miguel-gonzales-casquell.md) | [Justo Jimeno Bazaga](biografias/justo-jimeno.md)  |
 | 19 | **Viajes en un OVNI.**                          | [Pedro Montero](biografias/pedro-montero.md)                 | [Antonio Perera Sarmiento](biografias/perera.md)         |
 | 20 | **El ojo de K'horiandr.**                       | [José Ramon Azpiri](biografias/jose-ramon-azpiri.md) <br> [José María Méndez](biografias/jose-maria-mendez.md) | [Alfonso Azpiri Mejía](biografias/azpiri.md) |
-
-Ilustradores
-Azpiri (Alfonso Azpiri Mejía)
-    https://es.wikipedia.org/wiki/Alfonso_Azpiri
-Jsto Jimeno (Justo Jimeno Bazaga)
-    https://www.tebeosfera.com/autores/jimeno_bazaga_justo.html 
-    https://www.lambiek.net/artists/j/jimeno-bazaga_justo.htm
-    https://www.amazon.es/s?i=stripbooks&rh=p_27%3AJusto+Jimeno+Bazaga&ref=dp_byline_sr_book_1
-    https://justojimenob.blogspot.com/
-    http://cidxjusto.blogspot.com/
-    https://web.archive.org/web/20080618201403/http://www.autoresvegap.org/show_member.aspx?id=469E21FD-474E-43B7-A70E-24D2D3E57459
-perera (Antonio Perera Sarmiento)
-    https://www.tebeosfera.com/autores/perera_sarmiento_antonio.html
-    https://es.linkedin.com/in/antonio-perera-sarmiento-4310a586
-Rodri (Rodrigo Hernández Cabos)
-    https://www.tebeosfera.com/autores/rodri_hernandez.html
-    https://www.todostuslibros.com/autor/rodrigo-hernandez-cabos
-    https://www.facebook.com/RHCIlustrador/
     
 ### Publicación
 ISBN de la obra en su conjunto es 84-85831-70-5. La colección se publicó hasta el tomo 20, pero se considera incompleta, dado que hay declaraciones de algunos de los autores sobre más libros proyectados que nunca fueron publicados [buscar referencia]. Es más que probable que dado el tipo de productos que generaba la editorial, la colección final estuviese planeada para ser publicada durante todo un año, lo que daría un hipotético número de libros de entre 24 (meses, 2 años), 26 (quincenas, 1 año) o 52 (semanas, 1 año), pero se acortara debido a altos costes de producción o ventas insuficientes.
