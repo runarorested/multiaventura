@@ -11,24 +11,56 @@ Para muchos de nosotros, jóvenes de las décadas de los 70~80, fue la primera t
 Detalle notable sobre MultiAventura es que fue editado por la editorial [Ingelek S.A.](#aboutingelek), que durante la década de los 80 (y principio de los 90) se dedicó a crear fascículos coleccionables de gran calidad, muchos de ellos en formato libro, a un precio razonable y sobre temas técnicos y de actualidad. Eso causó que esta colección de libros fuese muy superior a otras similares en **calidad**, **precio** y **accesibilidad al gran público**.
 
 ### Diferencias
-A diferencia de otras colecciones, que eran editadas a un ritmo irregular en librerías convencionales, traducciones de obras extranjeras (aunque casi todas de obras reconocidas), en formato bolsillo reducido y tapa blanda, y con unas pocas ilustraciones a tinta de pequeño tamaño, esta fue una colección semanal, fácilmente accesible en quioscos de toda la nación, escrita por una selección de autores de literatura juvenil españoles, editadas en formato cuartilla y con tapa dura, e ilustraciones grandes y a todo color por ilustradores reconocidos en el mundo del comic, ilustración de literatura juvenil y videojuegos de la misma época.
+A diferencia de otras colecciones, que eran editadas a un ritmo irregular en librerías convencionales, traducciones de obras extranjeras (aunque casi todas de obras reconocidas), en formato bolsillo reducido y tapa blanda, y con unas pocas ilustraciones a tinta de pequeño tamaño, como por ejemplo, la de **Elige tu propia aventura** de la editorial *Timun Mas*, esta fue una colección originalmente semanal, fácilmente accesible en quioscos de toda la nación, escrita por una selección de autores de literatura juvenil españoles, editadas en formato (casi) cuartilla y con tapa dura, e ilustraciones grandes y a todo color por ilustradores reconocidos en el mundo del comic, ilustración de literatura juvenil y videojuegos de la misma época.
 
-|               | Otras colecciones    | MultiAventura        |
+|               | MultiAventura <br> Ingelek | Otras colecciones <br> Timun Mas |
 |---------------|----------------------|----------------------|
-| Publicación   | Irregular            | ¿Semanal, quincenal? |
-| Distribución  | Librerias            | Quioscos             |
-| Textos        | Traducido            | Nacional             |
-| Arte          | Baja calidad,  blanco y negro | Alta calidad,  a todo color |
-| Edición       | Bolsillo             | Cuartilla            |
-| Tapa          | Blanda               | Dura                 |
+| Publicación   | Semanal / quincenal  | Irregular            |
+| Distribución  | Quioscos             | Librerias            |
+| Textos        | Original y Nacional  | Traducciones         |
+| Arte          | Alta calidad <br> a todo color | Baja calidad <br> blanco y negro |
+| Edición       | Bolsillo Completo ó Cuartilla <br> 13x23 cm | Bolsillo Reducido <br> 10x18cm |
+| Tapa          | Dura, color          | Blanda, color        |
 
 ## Sobre Ingelek
+TO DO:
 En esta sección se incorporará una pequeña introducción a la trayectoria profesional de la editorial Ingelek, fundación, principios, listado de productos y personajes notables dentro de la compañia hasta su cierre.
 Aquí también pondremos una pequeña biografía sobre Antonio M. Ferrér Abelló, editor, supervisor y productor, e incluso a veces, redactor, de las distintas colecciones y libros editados por Ingelek. Ciertamente era raro no verle en los créditos de los fascículos que editaba, no solo como director de la colección, sino a veces como colaborador, especialmente en fascículos de temas técnicos y económicos.
 https://amstrad.es/doku.php?id=companias:ingelek
+https://www.einforma.com/servlet/app/prod/ETIQUETA_EMPRESA/nif/OlwKQy3DsxK7RVfC6dNBKg
+https://www.boe.es/boe/dias/2022/07/25/pdfs/BOE-A-2022-12337.pdf
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-12337
+
+https://www.axesor.es/Informes-Empresas/108700/INGELEK_SA.html
+https://www.infoempresas.pro/empresa/ingelek-s-a/
+
+
+Nombre         : INGELEK S.A.
+Objeto Social  : ?
+Forma jurídica :	SOCIEDAD ANONIMA
+Direcc. Fiscal : PLAZA REPUBLICA DEL ECUADOR, 2, CP: 28016, Madrid, Madrid, España
+Telefono       : 914579424, 914579513
+
+
+NIF            : A28608388						(Número de Identificación Fiscal)
+CNAE           : 5814 Edición de revistas		(Clasificación Nacional de Actividad Económica) 
+				 5811 Edición de libros
+SIC            : 2721 Edición de revistas		(Clasificación Industrial Estándar (Standard Industrial Clasification, SIC))
+Reg. mercantil : R.M. de la Comunidad de Madrid
+Fecha          : 02 de Marzo   de 1984 (Constitución)
+				 25 de Octubre de 1990 {Revocación
+		         18 de Mayo    de 2022 (Revocación NIF)
+				 25 de julio   de 2022 (Revocación NIF / Publicación en el BOE)
+
+https://www.cnae.com.es/lista-actividades.php 
+https://ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177032&menu=ultiDatos&idp=1254735976614
+https://kryptonsolid.com/clasificacion-industrial-estandar-codigo-sic-definicion/#:~:text=Recomendaciones%20clave%201%20Los%20c%C3%B3digos%20de%20Clasificaci%C3%B3n%20Industrial,del%20Norte%20%28NAICS%29%20de%20seis%20d%C3%ADgitos.%20M%C3%A1s%20elementos
+
+Editorial española, ya desaparecida, que editó varias revistas y libros españoles sobre la gama Amstrad. Ésta revocó el 25 de octubre de 1990, con el número de anuncio 142730 en el registro mercantil de Madrid. Tenía un capital social de 7.512,65 € y un número de 9 empleados. Llegó a desarrollar y publicar algún que otro juego.
 
 ## Sobre la colección
 La colección Multiaventura era una colección de librojuegos del género "elige tu propia aventura" (Choose Your Own Adventure, CYOA), usualmente bastante estandar y simplista, aunque algunos tenian mecánicas de juego mas complejas, como recursos u objetos llave, haciendoles ideales para ser portados a cualquier tipo de ficción interactiva digital.  
+
 Los libros eran una mezcla de historias originales, la mayoria inconexas, aunque algunas tenían protagonistas recurrentes que las dotaban de una cierta continuidad, con otras historias basadas en clásicos de la literatura y del cine de aventuras, terror y/o ciencia-ficción.  
 
 ### Créditos y licencias
@@ -79,59 +111,72 @@ Los créditos generales de cada volumen de la colección aparecen en la segunda 
 ### Publicación
 ISBN de la obra en su conjunto es 84-85831-70-5. La colección se publicó hasta el tomo 20, pero se considera incompleta, dado que hay declaraciones de algunos de los autores sobre más libros proyectados que nunca fueron publicados [buscar referencia]. Es más que probable que dado el tipo de productos que generaba la editorial, la colección final estuviese planeada para ser publicada durante todo un año, lo que daría un hipotético número de libros de entre 24 (meses, 2 años), 26 (quincenas, 1 año) o 52 (semanas, 1 año), pero se acortara debido a altos costes de producción o ventas insuficientes.
 
-| Nº | Título                                      | ISBN          | Depósito legal   | Fecha publicación |
-| -- | ------------------------------------------- | ------------- | -----------------| ----------------- |
-| 01 | Nuevo viaje al centro de la Tierra.         | 84-85831-69-1 | M. 16.045—1986   | ?                 |
-| 02 | Los caballeros de la galaxia.               | 84-85831-68-3 | M. 16.045—1986   | ?                 |
-| 03 | El caso Brackenstall.                       |               |                  | ?                 |
-| 04 | Los viajeros del tiempo.                    |               |                  | ?                 |
-| 05 | Tu nombre es Robinson.                      |               |                  | ?                 |
-| 06 | Aventuras en el Mississippi.                |               |                  | ?                 |
-| 07 | El mundo perdido del profesor Challenger.   |               |                  | ?                 |
-| 08 | El secreto de la isla misteriosa.           |               |                  | ?                 |
-| 09 | El sabueso del infierno.                    |               |                  | ?                 |
-| 10 | Soy invisible.                              |               |                  | ?                 |
-| 11 | El invitado de Dracula.                     |               |                  | ?                 |
-| 12 | En la corte del Rey Arturo.                 |               |                  | ?                 |
-| 13 | Capitán de nave estelar.                    | 84-85831-91-8 | M. 23.154—1986   | ?                 |
-| 14 | Los piratas de Malasia.                     |               |                  | ?                 |
-| 15 | El castillo de Hangyord.                    |               |                  | ?                 |
-| 16 | Viaje a otras dimensiones.                  |               |                  | ?                 |
-| 17 | Fantasmas S.A.                              |               |                  | ?                 |
-| 18 | En busca de la ciudad de oro.               |               |                  | ?                 |
-| 19 | Viajes en un OVNI.                          |               |                  | ?                 |
-| 20 | El ojo de K'horiandr.                       |               |                  | ?                 |
+Originalmente se lanzó de forma semanal, pero al poco tiempo se pasó a una periodicidad quincenal, más acorde a su precio y al poder adquisitivo del público objetivo.
+
+| Nº | Título                                      | ISBN          | Depósito legal   | Fecha publicación | Periodicidad | Precio   |
+| -- | ------------------------------------------- | ------------- | -----------------| ----------------- | ------------ | -------- |
+| 01 | Nuevo viaje al centro de la Tierra.         | 84-85831-69-1 | M. 16.045—1986   | Martes XX-XX-1986 | Semanal      |          |
+| 02 | Los caballeros de la galaxia.               | 84-85831-68-3 | M. 16.045—1986   | Martes XX-XX-1986 | Semanal      |          |
+| 03 | El caso Brackenstall.                       |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 04 | Los viajeros del tiempo.                    |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 05 | Tu nombre es Robinson.                      |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 06 | Aventuras en el Mississippi.                |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 07 | El mundo perdido del profesor Challenger.   |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 08 | El secreto de la isla misteriosa.           |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 09 | El sabueso del infierno.                    |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 10 | Soy invisible.                              |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 11 | El invitado de Dracula.                     |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 12 | En la corte del Rey Arturo.                 |               |                  | Martes XX-XX-1986 | Semanal      |          |
+| 13 | Capitán de nave estelar.                    | 84-85831-91-8 | M. 23.154—1986   | Martes XX-XX-1986 | Quincenal    |          |
+| 14 | Los piratas de Malasia.                     |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 15 | El castillo de Hangyord.                    |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 16 | Viaje a otras dimensiones.                  |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 17 | Fantasmas S.A.                              |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 18 | En busca de la ciudad de oro.               |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 19 | Viajes en un OVNI.                          |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+| 20 | El ojo de K'horiandr.                       |               |                  | Martes XX-XX-1986 | Quincenal    |          |
+
+https://librojuegos.org/2014/02/los-caballeros-de-la-galaxia-multiaventura/
+https://rol-peru.com/tienda/literatura-rolera/multiaventuras-ingelek-juvenil-coleccion-completa-de-20-novelas/
+https://pequitoelaventurero.blogspot.com/2008/10/multiaventura-se-tu-el-protagonista.html?m=1
+https://www.commodorespain.es/video-basic-preservanda-la-coleccion-de-commodore-64/
+http://librojuego.blogspot.com/2013/11/?m=0
+https://es.wikipedia.org/wiki/Multiaventura
+https://www.elotrolado.net/hilo_a-los-37-y-volviendo-de-nuevo-a-una-aficion-los-libro-juegos_2014986
+https://programbytes48k.wordpress.com/category/libros-2/page/2/
+https://programbytes48k.wordpress.com/2018/07/04/la-enciclopedia-practica-de-la-informatica-de-nueva-lente-ingelek-1983/
+
 
 ### Temática
 La colección tenia un amplio espectro de referencias a géneros literarios, aunque se agrupaban en principalmente 3 grandes grupos, que se distinguian por la maquetación de las propias tapas, en el color e ilustraciones de la portada y contraportada. Estas podian ser:
 
 1.  Para el género de *aventuras*, *exploración*, o *piratería*, una trama de "jungla de hojas verdes", con una palmera y una serpiente en la contraportada.
-2.  Para el género *espacial* o la *ciencia ficción*, un "cielo nocturno estrellado", con la silueta roja de una nave espacial surcando el espacio orbitando a una estrella eclipsada en la contraportada.
-3.  Para el género de *horror*, *sobrenatural* o *fantasía*, una noche cerrada en la que se distinguen la silueta de un bósque de coníferas, y la de una mansión victoriana completamente oscurecida excepto por una única ventana iluminada en la portada.
+2.  Para el género *espacial*, *misterio* o la *ciencia ficción*, un "cielo azul estrellado", con la silueta roja de una nave espacial surcando el espacio orbitando a una estrella eclipsada en la contraportada.
+3.  Para el género de *horror*, *sobrenatural* o *fantasía*, una "noche negra cerrada" en la que se distinguen la silueta de un bósque de coníferas, y la de una mansión victoriana completamente oscurecida excepto por una única ventana iluminada en la portada.
 4.  Se ha comentado la posible existencia de un cuarto tipo para posibles obras policiacas o de misterio que no llegó a usarse.
 
-| Nº | Título                                      | Temática    | Referencia            | Ambientación                                    |
-| -- | ------------------------------------------- | ----------- | --------------------- | ----------------------------------------------- |
-| 01 | Nuevo viaje al centro de la Tierra.         | Exploración | Clásicos literatura   | Viaje al centro de la tierra (Jules Verne)      |
-| 02 | Los caballeros de la galaxia.               | Sci-Fi.     |            |             |
-| 03 | El caso Brackenstall.                       | Horror      |            |              |
-| 04 | Los viajeros del tiempo.                    | Sci-Fi.     |            |              |
-| 05 | Tu nombre es Robinson.                      |             | Clásicos literatura   | Robinson Crusoe (Daniel Defoe)                  |
-| 06 | Aventuras en el Mississippi.                |             |            |              |
-| 07 | El mundo perdido del profesor Challenger.   |             |            |              |
-| 08 | El secreto de la isla misteriosa.           |             | Clásicos literatura           |              |
-| 09 | El sabueso del infierno.                    |             |            |              |
-| 10 | Soy invisible.                              | Sci-Fi.     |            |              |
-| 11 | El invitado de Dracula.                     |             |            |              |
-| 12 | En la corte del Rey Arturo.                 |             |            |              |
-| 13 | Capitán de nave estelar.                    |             |            |              |
-| 14 | Los piratas de Malasia.                     |             |            |              |
-| 15 | El castillo de Hangyord.                    | Fantasía    |            |              |
-| 16 | Viaje a otras dimensiones.                  |             |            |              |
-| 17 | Fantasmas S.A.                              |             |            |              |
-| 18 | En busca de la ciudad de oro.               |             |            |              |
-| 19 | Viajes en un OVNI.                          |             |            |              |
-| 20 | El ojo de K'horiandr.                       |             |            |              |
+| Nº | Título                                      | Temática    | Referencia            | Ambientación                                    | Reseña            |  Portada |
+| -- | ------------------------------------------- | ----------- | --------------------- | ----------------------------------------------- |------------------------------| --- |
+| 01 | Nuevo viaje al centro de la Tierra.         | Exploración | Clásicos literatura   | Viaje al centro de la tierra (Jules Verne)      | | |
+| 02 | Los caballeros de la galaxia.               | Espacial    | ?                     |                                                 | Eres un Caballero de la Galaxia y te enorgulleces de ello.  Marchas ahora por los pasillos del castillo milenario de Thanaberán. El Gran Maestre te ha llamado para tu primera misión.  Cuando te enteras de qué se trata, sientes como si un trozo de hielo se deslizase a lo largo de tu espina dorsal: todo el Universo se halla en peligro y se espera que tú lo salves.  ¿Podrás aceptar tal responsabilidad? ¿Sabrás hacer frente a los enormes peligros que te acechan a partir de este momento? | |
+| 03 | El caso Brackenstall.                       | Horror      | ?                     |                                                 | | |
+| 04 | Los viajeros del tiempo.                    | Sci-Fi.     | Original              | Continuidad de PP y Clara                       | ||
+| 05 | Tu nombre es Robinson.                      | Exploracion | Clásicos literatura   | Robinson Crusoe (Daniel Defoe)                  | ||
+| 06 | Aventuras en el Mississippi.                | Fantasia?   | Clásicos literatura   | Cabaña de Tio Tom / Tom Sawyer (Mark Twain)     | ||
+| 07 | El mundo perdido del profesor Challenger.   | Exploración | ?                     |                                                 | ||
+| 08 | El secreto de la isla misteriosa.           | Sci-Fi.     | Clásicos literatura   | La isla misteriosa (Jules Verne)                | ||
+| 09 | El sabueso del infierno.                    | Horror      | ?                     |                                                 | ||
+| 10 | Soy invisible.                              | Sci-Fi.     | Original              | Continuidad de PP y Clara                       | ||
+| 11 | El invitado de Dracula.                     | Horror      | Clásicos literatura   | Drácula (Bram Stoker)                           | ||
+| 12 | En la corte del Rey Arturo.                 | Aventuras   | Clásicos literatura   | Un yanqui en la corte del rey Arturo (Mark Twain) | ||
+| 13 | Capitán de nave estelar.                    | Espacial    | ?                     |                                                 | ||
+| 14 | Los piratas de Malasia.                     | Pirateria   | Clásicos literatura   | Sandokán (Emilio Salgari)                       | ||
+| 15 | El castillo de Hangyord.                    | Fantasía    | ?                     |                                                 | ||
+| 16 | Viaje a otras dimensiones.                  | Sci-Fi      | Original              | Continuidad de PP y Clara                       | ||
+| 17 | Fantasmas S.A.                              | Horror      | ?                     |                                                 | ||
+| 18 | En busca de la ciudad de oro.               | Exploración | ?                     |                                                 | ||
+| 19 | Viajes en un OVNI.                          | Sci-Fi      | Original              | Continuidad de PP y Clara                       | ||
+| 20 | El ojo de K'horiandr.                       | Fantasia    | Original              |                                                 | ||
 														
 
 
