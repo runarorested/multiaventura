@@ -155,28 +155,28 @@ La colección tenia un amplio espectro de referencias a géneros literarios, aun
 3.  Para el género de *horror*, *sobrenatural* o *fantasía*, una "noche negra cerrada" en la que se distinguen la silueta de un bósque de coníferas, y la de una mansión victoriana completamente oscurecida excepto por una única ventana iluminada en la portada.
 4.  Se ha comentado la posible existencia de un cuarto tipo para posibles obras policiacas o de misterio que no llegó a usarse.
 
-| Nº | Título                                      | Temática    | Referencia            | Ambientación                                    | Reseña            |  Portada |
-| -- | ------------------------------------------- | ----------- | --------------------- | ----------------------------------------------- |------------------------------| --- |
-| 01 | Nuevo viaje al centro de la Tierra.         | Exploración | Clásicos literatura   | Viaje al centro de la tierra (Jules Verne)      | | |
-| 02 | Los caballeros de la galaxia.               | Espacial    | ?                     |                                                 | Eres un Caballero de la Galaxia y te enorgulleces de ello.  Marchas ahora por los pasillos del castillo milenario de Thanaberán. El Gran Maestre te ha llamado para tu primera misión.  Cuando te enteras de qué se trata, sientes como si un trozo de hielo se deslizase a lo largo de tu espina dorsal: todo el Universo se halla en peligro y se espera que tú lo salves.  ¿Podrás aceptar tal responsabilidad? ¿Sabrás hacer frente a los enormes peligros que te acechan a partir de este momento? | |
-| 03 | El caso Brackenstall.                       | Horror      | ?                     |                                                 | | |
-| 04 | Los viajeros del tiempo.                    | Sci-Fi.     | Original              | Continuidad de PP y Clara                       | ||
-| 05 | Tu nombre es Robinson.                      | Exploracion | Clásicos literatura   | Robinson Crusoe (Daniel Defoe)                  | ||
-| 06 | Aventuras en el Mississippi.                | Fantasia?   | Clásicos literatura   | Cabaña de Tio Tom / Tom Sawyer (Mark Twain)     | ||
-| 07 | El mundo perdido del profesor Challenger.   | Exploración | ?                     |                                                 | ||
-| 08 | El secreto de la isla misteriosa.           | Sci-Fi.     | Clásicos literatura   | La isla misteriosa (Jules Verne)                | ||
-| 09 | El sabueso del infierno.                    | Horror      | ?                     |                                                 | ||
-| 10 | Soy invisible.                              | Sci-Fi.     | Original              | Continuidad de PP y Clara                       | ||
-| 11 | El invitado de Dracula.                     | Horror      | Clásicos literatura   | Drácula (Bram Stoker)                           | ||
-| 12 | En la corte del Rey Arturo.                 | Aventuras   | Clásicos literatura   | Un yanqui en la corte del rey Arturo (Mark Twain) | ||
-| 13 | Capitán de nave estelar.                    | Espacial    | ?                     |                                                 | ||
-| 14 | Los piratas de Malasia.                     | Pirateria   | Clásicos literatura   | Sandokán (Emilio Salgari)                       | ||
-| 15 | El castillo de Hangyord.                    | Fantasía    | ?                     |                                                 | ||
-| 16 | Viaje a otras dimensiones.                  | Sci-Fi      | Original              | Continuidad de PP y Clara                       | ||
-| 17 | Fantasmas S.A.                              | Horror      | ?                     |                                                 | ||
-| 18 | En busca de la ciudad de oro.               | Exploración | ?                     |                                                 | ||
-| 19 | Viajes en un OVNI.                          | Sci-Fi      | Original              | Continuidad de PP y Clara                       | ||
-| 20 | El ojo de K'horiandr.                       | Fantasia    | Original              |                                                 | ||
+| Portada                            | Nº <br> Título                                   | Temática <br> Referencia <br> Ambientación   | Reseña                             |
+| ---------------------------------- | ------------------------------------------------ | -------------------------------------------- | ---------------------------------- |
+| ![](imagenes/multiaventura-01.jpg) | 01 <br> **Nuevo viaje al centro de la Tierra.**  | Exploración <br> Clásicos literatura <br> **Viaje al centro de la tierra** <br> (*Jules Verne*) | *** |
+| ![](imagenes/multiaventura-02.jpg) | 02 <br> **Los caballeros de la galaxia.**        | Espacial    <br> --                  <br> --    | Eres un Caballero de la Galaxia y te enorgulleces de ello.  Marchas ahora por los pasillos del castillo milenario de Thanaberán. El Gran Maestre te ha llamado para tu primera misión.  Cuando te enteras de qué se trata, sientes como si un trozo de hielo se deslizase a lo largo de tu espina dorsal: todo el Universo se halla en peligro y se espera que tú lo salves.  ¿Podrás aceptar tal responsabilidad? ¿Sabrás hacer frente a los enormes peligros que te acechan a partir de este momento? |
+| ![](imagenes/multiaventura-03.jpg) | 03 <br> **El caso Brackenstall.**                | Horror      <br> --                  <br> --    | *** |    
+| ![](imagenes/multiaventura-04.jpg) | 04 <br> **Los viajeros del tiempo.**             | Sci-Fi.     <br> Original            <br> Continuidad de PP y Clara   | *** |
+| ![](imagenes/multiaventura-05.jpg) | 05 <br> **Tu nombre es Robinson.**               | Exploracion <br> Clásicos literatura <br> Robinson Crusoe (Daniel Defoe)      | *** |
+| ![](imagenes/multiaventura-06.jpg) | 06 <br> **Aventuras en el Mississippi.**         | Fantasia?   <br> Clásicos literatura <br> Cabaña de Tio Tom / Tom Sawyer (Mark Twain) | *** |
+| ![](imagenes/multiaventura-07.jpg) | 07 <br> **El mundo perdido del profesor Challenger.**  | Exploración <br> ?             <br> --    | *** |
+| ![](imagenes/multiaventura-08.jpg) | 08 <br> **El secreto de la isla misteriosa.**    | Sci-Fi.     <br> Clásicos literatura   <br> La isla misteriosa (Jules Verne)                | |
+| ![](imagenes/multiaventura-09.jpg) | 09 <br> **El sabueso del infierno.**             | Horror      <br> --                    <br>                                                 | |
+| ![](imagenes/multiaventura-10.jpg) | 10 <br> **Soy invisible.**                       | Sci-Fi.     <br> Original              <br> Continuidad de PP y Clara                       | |
+| ![](imagenes/multiaventura-11.jpg) | 11 <br> **El invitado de Dracula.**              | Horror      <br> Clásicos literatura   <br> Drácula (Bram Stoker)                           | |
+| ![](imagenes/multiaventura-12.jpg) | 12 <br> **En la corte del Rey Arturo.**          | Aventuras   <br> Clásicos literatura   <br> Un yanqui en la corte del rey Arturo (Mark Twain) | |
+| ![](imagenes/multiaventura-13.jpg) | 13 <br> **Capitán de nave estelar.**             | Espacial    <br> --                    <br>                                                 | |
+| ![](imagenes/multiaventura-14.jpg) | 14 <br> **Los piratas de Malasia.**              | Pirateria   <br> Clásicos literatura   <br> Sandokán (Emilio Salgari)                       | |
+| ![](imagenes/multiaventura-15.jpg) | 15 <br> **El castillo de Hangyord.**             | Fantasía    <br> --                    <br>                                                 | |
+| ![](imagenes/multiaventura-16.jpg) | 16 <br> **Viaje a otras dimensiones.**           | Sci-Fi      <br> Original              <br> Continuidad de PP y Clara                       | |
+| ![](imagenes/multiaventura-17.jpg) | 17 <br> **Fantasmas S.A.**                       | Horror      <br> --                    <br>                                                 | |
+| ![](imagenes/multiaventura-18.jpg) | 18 <br> **En busca de la ciudad de oro.**        | Exploración <br> --                    <br>                                                 | |
+| ![](imagenes/multiaventura-19.jpg) | 19 <br> **Viajes en un OVNI.**                   | Sci-Fi      <br> Original              <br> Continuidad de PP y Clara                       | |
+| ![](imagenes/multiaventura-20.jpg) | 20 <br> **El ojo de K'horiandr.**                | Fantasia    <br> Original              <br>                                                 | |
 														
 
 
